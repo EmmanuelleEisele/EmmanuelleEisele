@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**EmmanuelleEisele/EmmanuelleEisele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Bonjour, moi c’est Emmanuelle  
 
-Here are some ideas to get you started:
+🚀 Développeuse web junior, passionnée par le **JavaScript** et le **développement fullstack**.  
+Je travaille avec ** Node.js, Express et PostgreSQL** côté backend, et **React, HTML, CSS, Tailwind** côté frontend.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Stack & Outils
+- Frontend : React, Next.js, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
+- Backend : Node.js, Express.js, PostgreSQL, Sequelize
+- Outils : Git/GitHub, VS Code, npm , figma, vercel, railway  
+
+---
+
+## 📌 Projets récents
+- 🌐 [Portfolio – Site vitrine](williameisele.fr)  
+- ❤️ [SeniorLove – Site de rencontre](seniorlove-zeta.vercel.app)  
+- 📅 [Calendrier participatif – en cours]
+- 🌐 [Mon portfolio - en cours]
+
+---
+
+## 📖 En apprentissage
+- Flutter  
+- PHP  
+- MongoDB + Mongoose  
+
+---
+
+✨ N’hésite pas à explorer mes dépôts et à me contacter sur [LinkedIn](www.linkedin.com/in/emmanuelle-eiselé-b5560a341).
