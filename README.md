@@ -1,7 +1,7 @@
 
-# 👩‍💻 Bonjour, moi c’est Emmanuelle  
+# Bonjour, moi c’est Emmanuelle  
 
-🚀 Développeuse web junior, passionnée par le **JavaScript** et le **développement fullstack**.  
+Développeuse web junior, passionnée par le **JavaScript** et le **développement fullstack**.  
 Je travaille avec ** Node.js, Express et PostgreSQL** côté backend, et **React, HTML, CSS, Tailwind** côté frontend.  
 
 ---
