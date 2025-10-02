@@ -14,10 +14,11 @@ Je travaille avec ** Node.js, Express et PostgreSQL** côté backend, et **React
 ---
 
 ## 📌 Projets récents
-- 🌐 [Portfolio – Site vitrine](williameisele.fr)  
+- 🌐 [Mon portfolio](emmanuelle-eisele.com)
 - ❤️ [SeniorLove – Site de rencontre](seniorlove-zeta.vercel.app)  
+- 🌐 [Portfolio – Site vitrine](williameisele.fr)  
 - 📅 [Calendrier participatif – en cours]
-- 🌐 [Mon portfolio - en cours]
+- 📝 [To Do List - en cours]
 
 ---
 
